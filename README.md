@@ -4,3 +4,5 @@
 <br>サンプルの起動には宴が必須です。
 
 unity asset storeから宴を購入後、インポートしてください。
+
+© Unity Technologies Japan/UCL
